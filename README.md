@@ -4,7 +4,7 @@ Junior programmer
 - ☃️ Love creating websites, databases and winter
 - 👓 Currently AR developer
 - ⭐ Focused on code quality
-- 🤖 In free time creating funny stuff with raspberry pi
+- 🤖 In free time creating dummy stuff with raspberry pi
 
 <h2>Contact me</h2>
 <a href="https://www.linkedin.com/in/jaros%C5%82aw-tomaszewski-5274661bb/" target="_blank" rel="noreferrer" title="LinkedIn">
