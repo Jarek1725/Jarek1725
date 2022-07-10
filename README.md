@@ -36,6 +36,10 @@ Junior programmer
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="35px">
 </a>&nbsp;
+<a href="https://graphql.org/" target="_blank" rel="noreferrer" title="Sass">
+<img src="https://graphql.org/img/logo.svg" height="35px">
+</a>&nbsp;
+
 <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI">
 <img src="https://mui.com/static/logo.png" height="35px">
 </a>&nbsp;
