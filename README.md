@@ -13,6 +13,11 @@ Junior programmer
 <a href="https://m.me/Jarek1725" target="_blank" rel="noreferrer" title="Facebook">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" height="40px">
 </a>&nbsp;
+<a href="https://leetcode.com/tomaszewskijarek1725/" target="_blank" rel="noreferrer" title="Facebook">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" height="40px">
+</a>&nbsp;
+
+
 
 <h3>My favourites languages and tools</h3>
 <a href="https://www.java.com/pl" target="_blank" rel="noreferrer" title="Java">
