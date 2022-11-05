@@ -14,7 +14,7 @@ Junior programmer
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" height="40px">
 </a>&nbsp;
 <a href="https://leetcode.com/tomaszewskijarek1725/" target="_blank" rel="noreferrer" title="Facebook">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" height="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LeetCode_Logo_1.png/640px-LeetCode_Logo_1.png" height="40px">
 </a>&nbsp;
 
 
